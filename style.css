@@ -1,0 +1,15 @@
+body{
+    font-family:'Special Elite',cursive;
+    background:cyan;
+}
+.header_div{
+    background:white;
+    color:rgb(121, 114, 114)
+}
+.header_div p{
+    font-family:'Roboto',sans-serif;
+    color:black;
+    letter-spacing:2px;
+    font-size: 12px;
+    font-weight:bold;
+}
